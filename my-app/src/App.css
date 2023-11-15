@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background: url('./Background.png') center/cover no-repeat;
+  background: url('./Background.jpg') center/cover no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
